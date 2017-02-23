@@ -137,6 +137,7 @@
 ## Collaboration
 * Collaborates with engineers to recommend and guide implementation of solutions SE wide
 * Encourages collaboration between team members and throughout SE
+* Is approachable by engineers through SE
 
 ## Problem Solving / Decision Making
 * Able to encourage others to think through decisions
