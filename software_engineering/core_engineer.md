@@ -6,8 +6,13 @@
 * Organizes thoughts logically.
 * Communicates ideas, issues, and status within the team effectively.
 * Demonstrates effective listening and questioning skills.
+
+## Collaboration
+* Actively builds relationship with team members.
 * Actively participates in team meetings.
 * Shares the successes of the team and honors the contributions of others.
+* Works closely with stakeholders responsible for validating assigned tasks.
+* Regularly fulfills expectations around team participation and stakeholder interaction.
 
 ## Problem Solving / Decision Making
 * Critically analyzes one’s own work
@@ -19,14 +24,12 @@
 * Reviews and understands business requirements, design documents, and code changes associated with assigned tasks
 * Provides  accurate and timely estimates of task status
 * Accomplishes tasks assigned
-* Works closely with stakeholders responsible for validating assigned tasks.
 * Provides visibility into progress on all their work with little direction
 
 ## Accountability / Dependability
 * Meets deliverable requirements established as part of task and project expectations in a timely manner.
 * Accurately estimate own work effort.
 * Communicates any deviations to own work effort in a timely manner.
-* Regularly fulfills expectations around team participation and stakeholder interaction.
 
 ## Subject Matter Expert
 * Able to understand existing code base.
@@ -41,6 +44,9 @@
 
 ## Communication
 * Same as SE I
+
+## Collaboration
+* Has good working relationship with team members
 
 ## Problem Solving / Decision Making
 * Clearly thinks through specific tasks and presents possible solutions with no direction.
@@ -66,6 +72,9 @@
 ## Communication
 * Works effectively with the customer and business to present new technologies and deliverables.
 * Able to communicate complex ideas (make the complex simple).
+
+## Collaboration
+* Actively works to build relationships outside their immediate team
 
 ## Problem Solving / Decision Making
 * Independently thinks through a problem, articulates the 'problem space', defines solution options and recommends the approach
@@ -95,6 +104,9 @@
 ## Communication
 * Same as Sr. SE I
 
+## Collaboration
+* Is able to reflect on collaboration and share with others how to improve collaboration
+
 ## Problem Solving / Decision Making
 * Champions recommended solution option, collecting support from peers.
 
@@ -122,8 +134,12 @@
 * Leads development of presentations and complex documents to stakeholders.
 * Aware of organizational issues that may affect the tone or content of communication.
 
-## Problem Solving / Decision Making
+## Collaboration
 * Collaborates with engineers to recommend and guide implementation of solutions SE wide
+* Encourages collaboration between team members and throughout SE
+
+## Problem Solving / Decision Making
+* Able to encourage others to think through decisions
 
 ## Project Mangement
 * Identifies areas of improvement in processes, procedures, and features SE wide
