@@ -8,7 +8,7 @@
 * Demonstrates effective listening and questioning skills.
 
 ## Collaboration
-* Actively builds relationship with team members.
+* Actively builds relationships with team members.
 * Actively participates in team meetings.
 * Shares the successes of the team and honors the contributions of others.
 * Works closely with stakeholders responsible for validating assigned tasks.
@@ -46,7 +46,7 @@
 * Same as SE I
 
 ## Collaboration
-* Has good working relationship with team members
+* Works effectively as a member of the team.
 
 ## Problem Solving / Decision Making
 * Clearly thinks through specific tasks and presents possible solutions with no direction.
@@ -137,7 +137,7 @@
 ## Collaboration
 * Collaborates with engineers to recommend and guide implementation of solutions SE wide
 * Encourages collaboration between team members and throughout SE
-* Is approachable by engineers through SE
+* Is approachable by engineers throughout SE
 
 ## Problem Solving / Decision Making
 * Able to encourage others to think through decisions
