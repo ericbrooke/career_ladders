@@ -125,7 +125,7 @@
 * Leads development of presentations and complex documents to stakeholders.
 * Aware of organizational issues that may affect the tone or content of communication.
 * Shares knowledge outside of team & product e.g. Demos, Enova Talks, Blog posts, etc
-* Is visible and approachable for both team and non team members
+* Is visible and approachable for both team members and non team members
 
 ## Problem Solving / Decision Making
 * Collaborates with engineers to recommend and guide implementation of solutions SE wide
