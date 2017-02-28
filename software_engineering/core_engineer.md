@@ -114,13 +114,18 @@
 
 # Lead Software Engineer
 ## People Mangement
-* Leads a Ranger squad or Mini-Squad (4 person team within a Core team. Think Squidbillies on UK).
+* Leads a Ranger squad or Mini-Squad 4 person team within a Core team.
+* Provides thought leadership accross SE e.g. Architecture, Guilds, etc
+* Sets a good example for whole team and SE in terms of behavior and code
+* Can coach and mentor team members, improving their abilities and improving their career
 
 ## Communication
 * Interacting with PM & stakeholders, understanding business problems and requirements and articulating solutions.
 * Understands the audience and packages the messaging accordingly.
 * Leads development of presentations and complex documents to stakeholders.
 * Aware of organizational issues that may affect the tone or content of communication.
+* Shares knowledge outside of team & product e.g. Demos, Enova Talks, Blog posts, etc
+* Is visible and approachable for both team and non team members
 
 ## Problem Solving / Decision Making
 * Collaborates with engineers to recommend and guide implementation of solutions SE wide
@@ -128,6 +133,7 @@
 ## Project Mangement
 * Identifies areas of improvement in processes, procedures, and features SE wide
 * Breaks down large projects into iteration sized deliverables, milestones, and smaller tasks.
+* Identifies areas of risk and manages the risk e.g. performance, security, on time delivery, potential blockers
 
 ## Accountability / Dependability
 * Builds and coordinates the development of high quality deliverables.
