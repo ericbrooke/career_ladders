@@ -8,11 +8,10 @@
 * Demonstrates effective listening and questioning skills.
 
 ## Collaboration
-* Actively builds relationships with team members.
-* Actively participates in team meetings.
-* Shares the successes of the team and honors the contributions of others.
-* Works closely with stakeholders responsible for validating assigned tasks.
-* Regularly fulfills expectations around team participation and stakeholder interaction.
+* Actively builds relationships with team members
+* Actively participates in team meetings, team activites and Tech wide events
+* Shares the successes of the team and acknowledges the contributions of others e.g product, testing and UI
+* Works closely with stakeholders responsible for validating assigned tasks e.g. code reviews, and demos
 
 ## Problem Solving / Decision Making
 * Critically analyzes one’s own work
@@ -46,7 +45,7 @@
 * Same as SE I
 
 ## Collaboration
-* Works effectively as a member of the team.
+* Involved and an active member of the team and the SDLC process
 
 ## Problem Solving / Decision Making
 * Clearly thinks through specific tasks and presents possible solutions with no direction.
@@ -105,7 +104,10 @@
 * Same as Sr. SE I
 
 ## Collaboration
-* Is able to reflect on collaboration and share with others how to improve collaboration
+* Identify areas needing better collaboration 
+* Is considered a good collaborator
+* Is comfortable working with fellow engineers and stakeholders
+* Able to share with others how to improve collaboration e.g. mentoring
 
 ## Problem Solving / Decision Making
 * Champions recommended solution option, collecting support from peers.
