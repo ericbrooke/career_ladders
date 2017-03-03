@@ -45,7 +45,7 @@
 * Same as SE I
 
 ## Collaboration
-* Involved and an active member of the team and the SDLC process
+* Involved and an active member of the team and the Software Development Lifecycle(SDLC) process
 
 ## Problem Solving / Decision Making
 * Clearly thinks through specific tasks and presents possible solutions with no direction.
@@ -104,9 +104,8 @@
 * Same as Sr. SE I
 
 ## Collaboration
+* Fosters strong relationships and is able to partner with engineers across SE and stakeholders 
 * Identify areas needing better collaboration 
-* Is considered a good collaborator
-* Is comfortable working with fellow engineers and stakeholders
 * Able to share with others how to improve collaboration e.g. mentoring
 
 ## Problem Solving / Decision Making
@@ -138,7 +137,7 @@
 
 ## Collaboration
 * Collaborates with engineers to recommend and guide implementation of solutions SE wide
-* Encourages collaboration between team members and throughout SE
+* Encourages collaboration and improves partnerships between team members and throughout SE
 * Is approachable by engineers throughout SE
 
 ## Problem Solving / Decision Making
