@@ -47,6 +47,10 @@
 * Performs gap analyses periodically against current and future business needs and creates plan to address
 * Successful completion of Manager Bootcamp
 
+## Collaboration
+* Fosters strong collaboration between teams and across Tech to produce results
+* Holds team members accountable for successful partnerships
+
 ## People Management
 * Able to take a group of individuals and form a cohesive unit to accomplish a goal
 * Follows and supports company policies
